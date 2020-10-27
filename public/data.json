@@ -1,0 +1,31 @@
+{
+  "maxCount": 4,
+  "colors": [
+    [
+      "blue",
+      "purple",
+      "yellow",
+      "orange"
+    ],
+    [
+      "orange",
+      "yellow"
+    ],
+    [
+      "blue",
+      "purple",
+      "blue"
+    ],
+    [
+      "yellow",
+      "orange",
+      "purple"
+    ],
+    [
+      "purple",
+      "orange",
+      "yellow",
+      "blue"
+    ]
+  ]
+}

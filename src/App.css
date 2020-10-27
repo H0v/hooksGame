@@ -1,0 +1,48 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.App {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-selected {
+  margin-bottom: 200px;
+}
+
+.you-won {
+  margin-right: 10px;
+}
+
+.game-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column-reverse;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+.btn {
+  height: 100px;
+  width: 100px;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.steps {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
